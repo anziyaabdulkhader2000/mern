@@ -1,0 +1,26 @@
+/* element selector */
+p {
+    text-align:center;
+    color:red;
+    font-size: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+
+/* id selector */
+
+    #para1{
+        text-align:center;
+        color:blue;
+        }
+    
+        /* class selector */
+
+        .center{
+            text-align:center;
+            color:green;
+                  }
+                  h1,h2{
+                    text-align:center;
+                    color:red;
+                           }
+                
